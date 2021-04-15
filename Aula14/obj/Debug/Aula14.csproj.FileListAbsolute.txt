@@ -1,0 +1,9 @@
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula14\Aula14\bin\Debug\Aula14.exe.config
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula14\Aula14\bin\Debug\Aula14.exe
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula14\Aula14\bin\Debug\Aula14.pdb
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula14\Aula14\obj\Debug\Aula14.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula14\Aula14\obj\Debug\Aula14.exe
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula14\Aula14\obj\Debug\Aula14.pdb
+C:\Users\JONAS\Desktop\Aula14\Aula14\bin\Debug\Aula14.exe.config
+C:\Users\JONAS\Desktop\Aula14\Aula14\obj\Debug\Aula14.exe
+C:\Users\JONAS\Desktop\Aula14\Aula14\obj\Debug\Aula14.pdb
